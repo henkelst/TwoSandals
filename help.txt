@@ -1,0 +1,39 @@
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_tomato-soup.jpg
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_caesar-salad.jpg
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_chocchip-cookie.jpg
+
+Two Sandals
+In this project, you will recreate a web page that contains the restaurant's menu. The solution is provided to the right. You must use your knowledge of HTML and the website to the right to recreate it on your own computer.
+
+In addition to the visual content in this image, the website must also contain:
+
+Two HTML files in a project folder: index.html and home.html. Note: we do not provide any instructions for what you should add to home.html. The purpose of this file is to practice linking to an HTML document in a shared folder.
+Links from Home and Menu to the files home.html and index.html, respectively.
+Links from Soups, Salads and Desserts in the unordered list to their section on the menu.
+The three images displayed on the web page (see image links below).
+
+Image links:
+
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_tomato-soup.jpg
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_caesar-salad.jpg
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_chocchip-cookie.jpg
+
+
+Copy and paste the URL for this tomato soup picture
+Copy and paste the URL for this caesar salad picture
+Copy and paste the URL for this chocolate chip cookie picture
+Use the website to the right and the resources above to guide you through the project.
+
+    Soups
+Tomato Classic creamy tomato soup $4
+Chicken Noodle Chunky chicken noodle with carrots and celery $4.50
+Buffalo Chicken Shredded chicken in a thick cheesy buffalo sauce $5
+
+    Salads
+The Caesar The classic with a light sprinkle of parmesan cheese $6
+The California Romaine lettuce with avocado and cheddar cheese, with a light vinaigrette $7
+Key Lime Thai Iceberg lettuce with a light lime vinaigrette and onion crisps $8
+
+    Desserts
+Chocolate Chip Cookie Enough said $2
+Brownie Sundae Vanilla ice cream with chocolate sauce, nuts and a cherry on top $6
